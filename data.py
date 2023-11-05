@@ -2,7 +2,7 @@ question_data = [
     {
         "category": "Science: Computers",
         "type":"boolean", "difficulty":"easy",
-        "question":"The programming language &quot;Python&quot; is based off a modified version of &quot;JavaScript&quot;.",
+        "question":"The programming language Python is based off a modified version of JavaScript.",
         "correct_answer":"False",
         "incorrect_answers":["True"]
     },
@@ -23,7 +23,7 @@ question_data = [
     {
         "category": "Science: Computers",
         "type":"boolean", "difficulty":"easy",
-        "question":"In most programming languages, the operator ++ is equivalent to the statement &quot;+= 1&quot;.",
+        "question":"In most programming languages, the operator ++ is equivalent to the statement '+='.",
         "correct_answer":"True",
         "incorrect_answers":["False"]
     },
@@ -65,7 +65,7 @@ question_data = [
     {
         "category":"Science: Computers",
         "type":"boolean","difficulty":"easy",
-        "question":"The Python programming language gets its name from the British comedy group &quot;Monty Python.&quot;",
+        "question":"The Python programming language gets its name from the British comedy group 'Monty Python' ",
         "correct_answer":"True",
         "incorrect_answers":["False"]
     }
